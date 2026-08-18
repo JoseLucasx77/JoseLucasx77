@@ -19,7 +19,7 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-<p align="left">
+<p align="center">
   <!-- Linguagens e Frameworks (Substitua ou adicione conforme suas tecnologias) -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
