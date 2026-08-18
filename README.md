@@ -1,6 +1,5 @@
-<div align="center">
 #Olá, eu sou o José Lucas! 👋
-</div>
+
 
 <div align="center">
   <img src="https://github.com/LeticiaHalana/LeticiaHalana/blob/main/test.gif.gif">
