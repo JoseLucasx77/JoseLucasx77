@@ -14,7 +14,7 @@
 
 ### 🚀 Sobre Mim
 
-- 🌱 Aprenendo mais sobre Tecnologia da Informação
+- 🌱 Aprenendo mais sobre Tecnologia da Informação, e desenvolvimento de sistemas
 
 ---
 
