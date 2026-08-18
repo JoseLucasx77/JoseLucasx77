@@ -1,7 +1,6 @@
 # Olá, eu sou o José Lucas! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia;Criando+solu%C3%A7%C3%B5es+incr%C3%ADveis" alt="Typing SVG" />
   <img src="https://github.com/LeticiaHalana/LeticiaHalana/blob/main/test.gif.gif">
 </div>
 
