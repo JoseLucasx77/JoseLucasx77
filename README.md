@@ -8,10 +8,7 @@
 
 ### 🚀 Sobre Mim
 
-- 🔭 Atualmente trabalhando em
-- 🌱 Aprenendo mais sobre **Tecnologia da Informação**
-- 💬 Pergunte-me sobre 
-- ⚡ Fato curioso: **[Um fato engraçado ou hobby seu]**
+- 🌱 Aprenendo mais sobre Tecnologia da Informação
 
 ---
 
