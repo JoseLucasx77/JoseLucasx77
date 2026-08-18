@@ -14,9 +14,15 @@
 
 ### 🚀 Sobre Mim
 
-- 🌱 Aprenendo mais sobre Tecnologia da Informação, e desenvolvimento de sistemas
-
----
+- 🌱 Aprendendo mais sobre Tecnologia da Informação, e desenvolvimento de sistemas.
+- 📚 Atualmente estudando programação
+- 💻 Focado em C#
+- 🗄️ Aprendendo Banco de Dados e SQL
+- 🧩 Praticando lógica de programação
+- 🍀​ Aprimorando JavaScript
+- 📘​ Aprimorando CSS3
+- 📈 Aprimorando Phyton​
+- 💸​ Evoluindo um pouco mais a cada projeto
 
 ### 🛠️ Tecnologias e Ferramentas
 
