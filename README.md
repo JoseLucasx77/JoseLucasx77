@@ -39,9 +39,7 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Joselucasx77&theme=holi)
-</div>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Joselucasx77&theme=holi)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Joselucasx77&theme=holi&utcOffset=0)
 ---
